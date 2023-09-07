@@ -1,0 +1,22 @@
+body {
+background-color: #6b3636;
+color: #DCDCDC;
+}
+  .altclr {
+      background-color: #850505;
+    }
+  .tirclr {
+    background-color: #ab4848;
+  }
+  a:link {
+    color: #4889a3;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #2b5c70;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #6196ab;
+    text-decoration: none;
+  }
